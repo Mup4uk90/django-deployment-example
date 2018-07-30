@@ -26,7 +26,7 @@ SECRET_KEY = '7@8gotp=x$rmw!gouzvja-2*==+ok(w%50+b48nh*4z*53hm_0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['mup4uk.pythonanywhere.com/']
+ALLOWED_HOSTS = ['mup4uk.pythonanywhere.com']
 
 
 # Application definition
